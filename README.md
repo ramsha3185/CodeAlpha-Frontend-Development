@@ -21,7 +21,3 @@ Download or clone this repository, then open the HTML file of the project you wa
 ## What I learned
 
 These were beginner projects, and they taught me how to structure a page with HTML, style it with CSS and make it interactive with JavaScript. They gave me a good feel for how a website comes together.
-
-## About me
-
-I am Ramsha Arooj, an aspiring business analyst who is now focusing on data analytics and AI automation. You can find me on LinkedIn through the link on my profile.
